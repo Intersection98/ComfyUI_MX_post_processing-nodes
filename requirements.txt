@@ -1,5 +1,5 @@
+torch
 numpy
 Pillow
 color-matcher
 opencv-python
-PIL
