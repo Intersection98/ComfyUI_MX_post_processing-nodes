@@ -1,4 +1,5 @@
 torch
+torchvision
 numpy
 Pillow
 color-matcher
