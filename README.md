@@ -1,6 +1,6 @@
 #  ComfyUI-MX-post-processing-nodes
 
-A collection of post processing nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI), dds image post-processing adjustment capabilities to the ComfyUI.
+A collection of post processing nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI),which adds image post-processing adjustment capabilities to the ComfyUI.
 
 ## Example Image and Workflow
 
