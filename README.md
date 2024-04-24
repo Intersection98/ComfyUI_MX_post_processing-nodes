@@ -54,7 +54,6 @@ To install these nodes
 
 
 ## Reference
-https://github.com/EllangoK/ComfyUI-post-processing-nodes/
-https://github.com/digitaljohn/comfyui-propost
-
-
+  https://github.com/EllangoK/ComfyUI-post-processing-nodes/  
+  https://github.com/digitaljohn/comfyui-propost  
+  https://github.com/shadowcz007/comfyui-mixlab-nodes  
