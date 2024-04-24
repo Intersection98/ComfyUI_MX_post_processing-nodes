@@ -35,10 +35,10 @@ A collection of post processing nodes for [ComfyUI](https://github.com/comfyanon
  - MX_Sharpen: Enhances the details in an image by applying a sharpening filter
  - MX_SineWave: Runs a sine wave through the image, making it appear squiggly
  - MX_Solarize: Inverts image colors based on a threshold for a striking, high-contrast effect
- - "MX_LensBokeh": LensBokeh effect  
- - "MX_LensOpticAxis": LensOpticAxis effect  
- - "MX_LensZoomBurst": LensZoomBurst effect  
- - "MX_LUT":Adds LUT to image  
+ - MX_LensBokeh: LensBokeh effect  
+ - MX_LensOpticAxis: LensOpticAxis effect  
+ - MX_LensZoomBurst: LensZoomBurst effect  
+ - MX_LUT: Adds LUT to image  
  - MX_Vignette: Applies a vignette effect, putting the corners of the image in shadow
 
 
