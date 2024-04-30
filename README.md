@@ -52,7 +52,7 @@ A collection of post processing nodes for [ComfyUI](https://github.com/comfyanon
 To install these nodes 
 
   - Navigate to your `/ComfyUI/custom_nodes/` folder
-  - Run `git clone https://github.com/Intersection98/MX-ComfyUI-post-processing-nodes/`
+  - Run `git clone https://github.com/Intersection98/ComfyUI_MX_post_processing-nodes`
   - pip install -r requirements.txt
 
 
